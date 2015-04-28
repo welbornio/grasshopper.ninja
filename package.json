@@ -1,0 +1,44 @@
+{
+  "name": "grasshopper.ninja",
+  "version": "1.0.0",
+  "description": "A ninja to help you find icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/welbornio/grasshopper.ninja.git"
+  },
+  "keywords": [
+    "fontawesome",
+    "font",
+    "icons",
+    "icon",
+    "font-awesome",
+    "awesome",
+    "find",
+    "search",
+    "finder",
+    "help",
+    "ninja",
+    "grasshopper"
+  ],
+  "author": "Ethan Welborn (@welbornio)",
+  "license": " ",
+  "bugs": {
+    "url": "https://github.com/welbornio/grasshopper.ninja/issues"
+  },
+  "homepage": "https://github.com/welbornio/grasshopper.ninja",
+  "dependencies": {
+    "angular": "^1.3.15",
+    "angular-socket-io": "^0.7.0",
+    "angular-ui-router": "^0.2.14",
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "mongodb": "^2.0.28",
+    "mongoose": "^4.0.2",
+    "socket.io": "^1.3.5",
+    "socket.io-client": "^1.3.5"
+  }
+}

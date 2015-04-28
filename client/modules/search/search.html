@@ -1,0 +1,6 @@
+<gh-search>
+	<div ng-repeat="result in model.searchResults">
+		<a ui-sref="view({iconId: result.name})" ng-bind="result.name"></a><br>
+		<span ng-bind="result.icon"></span><br>
+	</div>
+</gh-search>
